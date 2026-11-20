@@ -1,0 +1,8 @@
+{
+  "name": "Fruit Slice - Ultimate",
+  "description": "Fast-paced 60fps arcade fruit-slicing game with 100 levels, 3 game modes, power-ups, blades, and Android AdMob integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

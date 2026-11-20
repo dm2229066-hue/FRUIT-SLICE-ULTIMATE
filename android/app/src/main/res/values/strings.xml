@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fruit Slice – Ultimate</string>
+    <string name="title_activity_main">Fruit Slice – Ultimate</string>
+    <string name="package_name">com.fruitslice.ultimate</string>
+    <string name="custom_url_scheme">com.fruitslice.ultimate</string>
+    <string name="admob_app_id">ca-app-pub-7496793317592044~5848952305</string>
+    <string name="admob_banner_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_interstitial_id">ca-app-pub-7496793317592044/5110585708</string>
+    <string name="admob_rewarded_id">ca-app-pub-3940256099942544/5224354917</string>
+</resources>
